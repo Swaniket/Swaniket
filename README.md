@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Swaniket/Swaniket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, This is Swaniket! 👋
 
 - 🔭 I’m currently working on: Data Analytics
 - 🌱 I’m currently learning: Machine Learning
@@ -11,4 +6,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 Connect With Me: [LinkedIn Profile](https://www.linkedin.com/in/swaniketchowdhury/)
 - ⚡ Fun fact: I'm a Cardist
--->
+
