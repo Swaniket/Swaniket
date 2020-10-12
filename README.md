@@ -11,7 +11,7 @@
 
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+
 <a href="https://linkedin.com/in/swaniketchowdhury/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swaniketchowdhury" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/swaniketchowdhury/notebooks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="swaniketchowdhury" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swaniketc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="swaniketchowdhury" height="30" width="40" /></a>
@@ -45,6 +45,8 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaniket&layout=compact" alt="swaniket" /></p>
+
+<h3 align="left">Projects:</h3>
 
 <a href="https://github.com/Swaniket/PersonalProject-Single-User-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaniket&repo=PersonalProject-Single-User-Blog&theme=light&description" />
