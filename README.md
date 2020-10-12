@@ -26,7 +26,6 @@
 - ⚡ Fun fact: I'm a Cardist.
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
@@ -43,5 +42,10 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
+<br/>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaniket&layout=compact" alt="swaniket" /></p>
 
+<a href="https://github.com/Swaniket/PersonalProject-Single-User-Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaniket&repo=PersonalProject-Single-User-Blog&theme=light&description" />
+</a>
