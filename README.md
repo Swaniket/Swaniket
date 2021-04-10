@@ -11,12 +11,24 @@
 
 ```javascript
 const swaniket = {
-  pronouns: "he" | "his",
-  code: [Python, Javascript, SQL, HTML, CSS, Java],
-  tools: [React, Redux, Django, Material-UI, Styled-Components, AWS],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  funFact: "I'm a Cardist...!",
-  challenge: "Revisiting DSA",
+	pronouns: "he" | "his",
+	languageOfChoice: "Python",
+	knowledgeBucket: {
+		webDevelopment: {
+			languages: ["Javascript", "Python", "HTML", "CSS"],
+			tools: ["React", "Redux", "Django", "Django REST Framework", 'MaterialUI', "Bootstrap"]
+		}, 
+		dataAnalytics: {
+			languages: ["SQL", "Python"],
+			tools: ["Google BigQuery", "Tableau", "Tableau Prep", "PowerBI", "AWS Quicksight", "Execl"]
+		},
+		machineLearning: {
+			languages: ["Python"],
+			tools: ["Numpy", "Pandas", "Seaborn", "Matplotlib", "SKlearn"]
+		}
+	},
+	funFact: "I'm a cardist...!",
+	currentlyWorkingOn: "Revisiting Data Structures and Algorithms."
 }
 ```
 
