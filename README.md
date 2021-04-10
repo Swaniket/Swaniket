@@ -20,7 +20,7 @@ const swaniket = {
 		}, 
 		dataAnalytics: {
 			languages: ["SQL", "Python"],
-			tools: ["Google BigQuery", "Tableau", "Tableau Prep", "PowerBI", "AWS Quicksight", "Execl"]
+			tools: ["Google BigQuery", "Tableau", "Tableau Prep", "PowerBI", "AWS Quicksight", "Excel"]
 		},
 		machineLearning: {
 			languages: ["Python"],
