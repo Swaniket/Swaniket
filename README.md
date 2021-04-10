@@ -6,13 +6,15 @@
 
 <br/>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+
 ```javascript
 const swaniket = {
   pronouns: "he" | "his",
   code: [Python, Javascript, SQL, HTML, CSS, Java],
   tools: [React, Redux, Django, Material-UI, Styled-Components, AWS],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  funFact: "I'm a Cardist...!"
+  funFact: "I'm a Cardist...!",
   challenge: "Revisiting DSA",
 }
 ```
