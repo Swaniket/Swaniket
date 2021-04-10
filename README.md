@@ -5,7 +5,9 @@
 <h3 align="center">A Software Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swaniket&label=Profile%20views&color=0e75b6&style=flat" alt="swaniket" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swaniket&label=Profile%20views&color=0e75b6&style=flat" alt="swaniket" /> 
+[![Linkedin: swaniketchowdhury](https://img.shields.io/badge/-swaniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/swaniketchowdhury/)](https://linkedin.com/in/swaniketchowdhury/)
+</p>
 
 
 
