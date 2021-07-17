@@ -16,7 +16,7 @@ const swaniket = {
 	knowledgeBucket: {
 		webDevelopment: {
 			languages: ["Javascript", "Python", "HTML", "CSS"],
-			tools: ["React", "Redux", "Django", "Django REST Framework", 'MaterialUI', "Bootstrap"]
+			tools: ["React", "Redux", "NodeJS", "ExpressJS", "NextJS", "Django", "Django REST Framework", 'MaterialUI', "Bootstrap"]
 		}, 
 		dataAnalytics: {
 			languages: ["SQL", "Python"],
