@@ -16,11 +16,11 @@ const swaniket = {
 	knowledgeBucket: {
 		webDevelopment: {
 			languages: ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
-			tools: ["Angular", "RxJS", "React", "Redux", "NodeJS", "ExpressJS", "Django", "MaterialUI", "Bootstrap"]
+			tools: ["React", "Redux", "Angular", "RxJS", "NodeJS", "ExpressJS", "Django", "MaterialUI", "Bootstrap"]
 		}, 
 		dataAnalytics: {
 			languages: ["SQL", "Python"],
-			tools: ["Google BigQuery", "Tableau", "Tableau Prep", "PowerBI", "AWS Quicksight", "AWS Athena", "Excel"]
+			tools: ["Google BigQuery", "Tableau", "PowerBI", "AWS Quicksight", "AWS Athena"]
 		},
 		machineLearning: {
 			languages: ["Python"],
