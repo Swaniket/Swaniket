@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript Developer
 --------------------
 
-Hi, I'm a Full Stack Javascript Developer with 2+ years of industry experience working in ReactJS and NodeJS.
+Hi, I'm a Full Stack Javascript Developer with 3+ years of industry experience working in ReactJS and NodeJS.
 
 * 🌍  I'm based in Howrah, IN
 * ✉️  You can contact me at [swaniketchowdhury@gmail.com](mailto:swaniketchowdhury@gmail.com)
