@@ -9,7 +9,7 @@ Hi, I'm a Full Stack Javascript Developer with 3+ years of industry experience w
 * 🌍  I'm based in Howrah, IN
 * ✉️  You can contact me at [swaniketchowdhury@gmail.com](mailto:swaniketchowdhury@gmail.com)
 * 🧠  I'm learning NextJS
-* ⚡  I'm secretly spiderman... but do not tell anyone.
+* ⚡  I'm secretly Spiderman... but do not tell anyone.
 
 <a href="https://www.github.com/Swaniket" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Swaniket?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -52,4 +52,4 @@ src="https://img.shields.io/github/followers/Swaniket?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Swaniket/support-desk" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Swaniket&repo=support-desk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Swaniket/github-finder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Swaniket&repo=github-finder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Swaniket/notes-bucket" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Swaniket&repo=notes-bucket&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Swaniket/github-finder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Swaniket&repo=github-finder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
