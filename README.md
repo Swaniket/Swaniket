@@ -8,7 +8,7 @@ Hi, I'm a Full Stack Javascript Developer with 3+ years of industry experience w
 
 * 🌍  I'm based in Howrah, IN
 * ✉️  You can contact me at [swaniketchowdhury@gmail.com](mailto:swaniketchowdhury@gmail.com)
-* 🧠  I'm learning Angulat and NestJS
+* 🧠  I'm learning Socket and NestJS
 * ⚡  I'm secretly Spiderman... but do not tell anyone.
 
 <a href="https://www.github.com/Swaniket" target="_blank" rel="noreferrer"><img
