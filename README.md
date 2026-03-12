@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript Developer
 --------------------
 
-Hi, I'm a Full Stack Javascript Developer with 4+ years of industry experience working in ReactJS and NodeJS.
+Hi, I'm a Full Stack with 5+ years of industry experience working in ReactJS and NodeJS.
 
-* 🌍  I'm based in Howrah, IN
-* ✉️  You can contact me at [swaniketchowdhury@gmail.com](mailto:swaniketchowdhury@gmail.com)
-* 🧠  I'm learning Go.
+* 🌍  I'm based in Bangalore, IN
+* 🧠  Currently learning Go.
 * ⚡  I'm secretly Spiderman... but do not tell anyone.
 
 <a href="https://www.github.com/Swaniket" target="_blank" rel="noreferrer"><img
