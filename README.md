@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swaniket Chowdhury
 ==========================================================================================================================================
 
-JavaScript Developer
+Full-stack Developer
 --------------------
 
-Hi, I'm a Full Stack with 5+ years of industry experience working in ReactJS and NodeJS.
+Hi, I'm a full-stack developer with 5+ years of industry experience working in ReactJS and NodeJS.
 
 * 🌍  I'm based in Bangalore, IN
 * 🧠  Currently learning Go.
