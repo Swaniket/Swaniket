@@ -1,46 +1,61 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swaniket Chowdhury
-==========================================================================================================================================
+# Hi, I'm Swaniket ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Full-stack Developer
---------------------
+📍 **India, Bangalore** | 🚀 **IBM Software Labs | Ex: PwC**
 
-Hi, I'm a full-stack developer with 5+ years of industry experience working in ReactJS and NodeJS.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-* 🌍  I'm based in Bangalore, IN
-* 🧠  Currently learning Go.
-* ⚡  I'm secretly Spiderman... but do not tell anyone.
-
-<a href="https://www.github.com/Swaniket" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Swaniket?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
+> A full stack developer with 6+ years in the game, becoming 1% better everyday.
 
 
-### Socials
+## Projects
 
-<p align="left"> <a href="https://www.github.com/Swaniket" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/swaniketchowdhury/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<!-- ### In Progress
 
-<b>Top Repositories</b>
+- 🧠 **[SecondBrain](https://openclaw.ai)** - the AI that actually does things
+- 🚇 **[SkillTribe](https://github.com/amantus-ai/vibetunnel)** - An online learning platform for hosting and managing video courses with an integrated admin panel. -->
 
-<div width="100%" align="center"><a href="https://github.com/Swaniket/notes-bucket" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Swaniket&repo=notes-bucket&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Swaniket/github-finder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Swaniket&repo=github-finder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### Completed
+
+- 📝 **[Notes Bucket](https://github.com/Swaniket/notes-bucket)** - A modern notes app with Markdown editing and organization features.
+- 🖥️ **[Support Desk](https://github.com/Swaniket/support-desk)** - A flexiable Support Desk Type application which can be used in a small organizations to keep track of tickets from employees.
+- 🔍 **[Github Finder](https://github.com/Swaniket/github-finder)** - A Search Engine for Github users. You can search by username and see various details.
+- 🎰 **[Slot Machine](https://github.com/Swaniket/Slot-Machine)** - A Simple Slot Machine CLI game build with Javascript.
+
+### Lab Work
+
+> Place where I put stuff when I'm learning something.
+
+- 🔄 **[Webpack 101](https://github.com/Swaniket/webpack-101)** - Provides a complete explanation of webpack for a simple JS project. It also includes keymaps for most of the configuration.
+- 🧩 **[Simple Ecommerce](https://github.com/Swaniket/ecom-microfrontend)** - Simple Ecommerce in Microfrontend Architecture.
+- 👨🏻‍🎨 **[React Design Patterns](https://github.com/Swaniket/react-design-patterns)** - Most used design patterns used with React.
+
+
+## What I'm Doing
+
+- **Living in the future** - Leaning AI and using it to solve problems everyday
+- **Skill Up** - Leaning Golang by building real-life projects
+<!-- - **Writing about AI workflows** - Sharing my learnings on [steipete.me](https://steipete.me) -->
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Swaniket_Chowdhury-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaniketchowdhury/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Swaniket)
+
+---
+
+### Recognition
+
+- Honored with the [Outstanding Technical Achievement Award (OTAA)](https://drive.google.com/file/d/1-LYNq_KBdQNyBxLbnOvirznjxEQquiEF/view) by IBM
+- Awarded the [STAR&R](https://drive.google.com/file/d/1d9FUhoXypklZLJO5xDvfWgIqIOAZOgg0/view) by Pwc India
+
+
