@@ -56,6 +56,6 @@
 ### Recognition
 
 - Honored with the [Outstanding Technical Achievement Award (OTAA)](https://drive.google.com/file/d/1-LYNq_KBdQNyBxLbnOvirznjxEQquiEF/view) by IBM
-- Awarded the [STAR&R](https://drive.google.com/file/d/1d9FUhoXypklZLJO5xDvfWgIqIOAZOgg0/view) by Pwc India
+- Awarded the [STAR&R](https://drive.google.com/file/d/1d9FUhoXypklZLJO5xDvfWgIqIOAZOgg0/view) by PwC India
 
 
