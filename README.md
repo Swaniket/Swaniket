@@ -14,7 +14,7 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 
-> A full stack developer with 6+ years in the game, becoming 1% better everyday.
+> A full-stack developer with 6+ years in the game, becoming 1% better every day.
 
 
 ## Projects
@@ -35,6 +35,7 @@
 
 > Place where I put stuff when I'm learning something.
 
+- 🙋 **[React Query](https://github.com/Swaniket/react-query)** - Basics of React Query with popular patterns like Optimistic query, Pagination, and Infinite query
 - 🔄 **[Webpack 101](https://github.com/Swaniket/webpack-101)** - Provides a complete explanation of webpack for a simple JS project. It also includes keymaps for most of the configuration.
 - 🧩 **[Simple Ecommerce](https://github.com/Swaniket/ecom-microfrontend)** - Simple Ecommerce in Microfrontend Architecture.
 - 👨🏻‍🎨 **[React Design Patterns](https://github.com/Swaniket/react-design-patterns)** - Most used design patterns used with React.
@@ -42,8 +43,8 @@
 
 ## What I'm Doing
 
-- **Living in the future** - Leaning AI and using it to solve problems everyday
-- **Skill Up** - Leaning Golang by building real-life projects
+- **Living in the future** - Learning AI and using it to solve problems every day
+- **Skill Up** - Learning Golang by building real-life projects
 <!-- - **Writing about AI workflows** - Sharing my learnings on [steipete.me](https://steipete.me) -->
 
 ## Connect
